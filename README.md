@@ -42,7 +42,7 @@ I enjoy building clean, user-friendly interfaces and backing them up with solid,
 
 ### 📫 Let’s connect
 
-  💻 **GitHub:** https://github.com/Sirbu-Madalina
+  💻 **GitHub:** * https://github.com/Sirbu-Madalina*  
   💬 **LinkedIn:** *https://www.linkedin.com/in/madalina-sirbu/*  
   ✉️ **Email:** *madalinasirbu197@gmail.com*
 
