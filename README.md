@@ -40,21 +40,11 @@ I enjoy building clean, user-friendly interfaces and backing them up with solid,
 
 ---
 
-### 🧠 Mindset
-
-- I care about **why**, not just how
-- UX before pixels, structure before styling
-- Clean code > clever code
-- Learning by building (and breaking 😅)
-
----
-
 ### 📫 Let’s connect
 
-  💼 **Portfolio:** https://sirbumadalina.dk  
-  💻 **GitHub:** https://github.com/Madalina  
-  💬 **LinkedIn:** *(add your LinkedIn link here)*  
-  ✉️ **Email:** *(add your email here)*
+  💻 **GitHub:** https://github.com/Sirbu-Madalina
+  💬 **LinkedIn:** *https://www.linkedin.com/in/madalina-sirbu/*  
+  ✉️ **Email:** *madalinasirbu197@gmail.com*
 
 ---
 
